@@ -1,0 +1,27 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+paket4                                                            0x0500       1
+paket6                                                            0x0501       1
+paket7                                                            0x0502       1
+moving                                                            0x0503       1
+positionLow                                                       0x0504       1
+positionHigh                                                      0x0505       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+brzina_servo_H                                                    R5           1
+brzina_servo_L                                                    R4           1
+ugao_servo_H                                                      R7           1
+ugao_servo_L                                                      R6           1
+sum                                                               R9           1
+checksum                                                          R8           1
+greska                                                            R11          1
+IdServoGreska                                                     R10          1
+paket1                                                            R13          1
+paket2                                                            R12          1

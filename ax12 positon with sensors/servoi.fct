@@ -1,0 +1,6 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"servoi.c" LINE:261
+servo_func DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"servoi.c" LINE:156
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:5 FILE:"C:\cvavr2\lib\stdio.lib" LINE:204
+ext_int7_isr DSTACK_USAGE:12 DSTACK_LEVEL:17 FILE:"servoi.c" LINE:253
+servo_position_func DSTACK_USAGE:2 DSTACK_LEVEL:19 FILE:"servoi.c" LINE:216
+putchar DSTACK_USAGE:1 DSTACK_LEVEL:20 FILE:"C:\cvavr2\lib\stdio.lib" LINE:204
